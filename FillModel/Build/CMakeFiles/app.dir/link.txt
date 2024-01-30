@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app.dir/FillModel.cpp.o CMakeFiles/app.dir/model.cpp.o CMakeFiles/app.dir/tgaimage.cpp.o  -o app 

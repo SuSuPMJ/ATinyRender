@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lixiang/TinyRender/Z-Buffer/Z-Buffer.cpp
+vector
+-
+cmath
+-
+tgaimage.h
+/home/lixiang/TinyRender/Z-Buffer/tgaimage.h
+model.h
+/home/lixiang/TinyRender/Z-Buffer/model.h
+geometry.h
+/home/lixiang/TinyRender/Z-Buffer/geometry.h
+vector
+-
+iostream
+-
+limits
+-
+
+/home/lixiang/TinyRender/Z-Buffer/geometry.h
+cmath
+-
+vector
+-
+cassert
+-
+iostream
+-
+
+/home/lixiang/TinyRender/Z-Buffer/model.h
+vector
+-
+geometry.h
+/home/lixiang/TinyRender/Z-Buffer/geometry.h
+
+/home/lixiang/TinyRender/Z-Buffer/tgaimage.h
+fstream
+-
+

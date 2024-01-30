@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lixiang/TinyRender/UV/UV.cpp
+vector
+-
+cmath
+-
+tgaimage.h
+/home/lixiang/TinyRender/UV/tgaimage.h
+model.h
+/home/lixiang/TinyRender/UV/model.h
+geometry.h
+/home/lixiang/TinyRender/UV/geometry.h
+vector
+-
+iostream
+-
+limits
+-
+
+/home/lixiang/TinyRender/UV/geometry.h
+cmath
+-
+
+/home/lixiang/TinyRender/UV/model.h
+vector
+-
+geometry.h
+/home/lixiang/TinyRender/UV/geometry.h
+tgaimage.h
+/home/lixiang/TinyRender/UV/tgaimage.h
+
+/home/lixiang/TinyRender/UV/tgaimage.h
+fstream
+-
+

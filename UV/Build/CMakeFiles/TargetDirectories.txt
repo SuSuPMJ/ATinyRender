@@ -1,0 +1,3 @@
+/home/lixiang/TinyRender/UV/Build/CMakeFiles/rebuild_cache.dir
+/home/lixiang/TinyRender/UV/Build/CMakeFiles/edit_cache.dir
+/home/lixiang/TinyRender/UV/Build/CMakeFiles/app.dir

@@ -1,0 +1,3 @@
+/home/pengmingjie/TinyRender/FillModel/Build/CMakeFiles/rebuild_cache.dir
+/home/pengmingjie/TinyRender/FillModel/Build/CMakeFiles/edit_cache.dir
+/home/pengmingjie/TinyRender/FillModel/Build/CMakeFiles/app.dir

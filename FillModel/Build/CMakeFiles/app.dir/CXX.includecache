@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pengmingjie/TinyRender/FillModel/FillModel.cpp
+vector
+-
+cmath
+-
+tgaimage.h
+/home/pengmingjie/TinyRender/FillModel/tgaimage.h
+model.h
+/home/pengmingjie/TinyRender/FillModel/model.h
+geometry.h
+/home/pengmingjie/TinyRender/FillModel/geometry.h
+vector
+-
+iostream
+-
+
+/home/pengmingjie/TinyRender/FillModel/geometry.h
+cmath
+-
+
+/home/pengmingjie/TinyRender/FillModel/model.h
+vector
+-
+geometry.h
+/home/pengmingjie/TinyRender/FillModel/geometry.h
+
+/home/pengmingjie/TinyRender/FillModel/tgaimage.h
+fstream
+-
+

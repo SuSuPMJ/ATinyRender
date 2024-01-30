@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pengmingjie/TinyRender/FillTriangle/FillTriangle.cpp
+tgaimage.h
+/home/pengmingjie/TinyRender/FillTriangle/tgaimage.h
+model.h
+/home/pengmingjie/TinyRender/FillTriangle/model.h
+geometry.h
+/home/pengmingjie/TinyRender/FillTriangle/geometry.h
+iostream
+-
+cmath
+-
+algorithm
+-
+
+/home/pengmingjie/TinyRender/FillTriangle/geometry.h
+cmath
+-
+
+/home/pengmingjie/TinyRender/FillTriangle/model.h
+vector
+-
+geometry.h
+/home/pengmingjie/TinyRender/FillTriangle/geometry.h
+
+/home/pengmingjie/TinyRender/FillTriangle/tgaimage.h
+fstream
+-
+
